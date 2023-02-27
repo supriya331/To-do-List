@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/supriya331/To-do-List.git/static/css/main.0161cbd1.css",
+    "main.js": "/supriya331/To-do-List.git/static/js/main.c264db95.js",
+    "index.html": "/supriya331/To-do-List.git/index.html",
+    "main.0161cbd1.css.map": "/supriya331/To-do-List.git/static/css/main.0161cbd1.css.map",
+    "main.c264db95.js.map": "/supriya331/To-do-List.git/static/js/main.c264db95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0161cbd1.css",
+    "static/js/main.c264db95.js"
+  ]
+}
